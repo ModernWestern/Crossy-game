@@ -1,4 +1,5 @@
-# crossy🕹️
+# Crossy Like Game 🕹️
+
 WebGL Crossy Game
 
 ## Instructions
