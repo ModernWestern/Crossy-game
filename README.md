@@ -1,2 +1,2 @@
-# crossy-
+# crossy🕹️
 WebGL Crossy Game
