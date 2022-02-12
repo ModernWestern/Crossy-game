@@ -1,7 +1,7 @@
 # crossy🕹️
 WebGL Crossy Game
 
-## Intructions
+## Instructions
 
 - Get cross to the other side with 5 chickens 
 - Each chicken have 3 lives
